@@ -1,3 +1,3 @@
 module.exports = {
-    two: 'version 1'
+    two: 'version update'
 }
